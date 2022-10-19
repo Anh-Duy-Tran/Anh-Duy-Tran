@@ -7,12 +7,13 @@
 - Major in Software Engineering and Minor in Machine Learning.
 
 <h3>My recent projects: </h3>
--<a href="https://anh-duy-tran.github.io/todo-app/"> To-do app </a>
+<ul>
+  <li><a href="https://anh-duy-tran.github.io/todo-app/"> To-do app </a></li>
 
--<a href="https://anh-duy-tran.github.io"> Proximity hover effect </a>
+  <li><a href="https://anh-duy-tran.github.io"> Proximity hover effect </a></li>
 
--<a href="https://github.com/Anh-Duy-Tran/Rest-API/tree/main"> REST-API </a>
-
+  <li><a href="https://github.com/Anh-Duy-Tran/Rest-API/tree/main"> REST-API </a></li>
+</ol>
 
 <h3>My skills: </h3>
 - C++, C, Java, JavaScript, Python.
