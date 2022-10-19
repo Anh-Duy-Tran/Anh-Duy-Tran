@@ -6,8 +6,15 @@
 - As a second year student in Computing and Electrical Engineering.
 - Major in Software Engineering and Minor in Machine Learning.
 
-<h3>My skills </h3>
+<h3>My recent projects: </h3>
+-<a href="https://anh-duy-tran.github.io/todo-app/"> To-do app </a>
+
+-<a href="https://anh-duy-tran.github.io"> Proximity hover effect </a>
+
+
+<h3>My skills: </h3>
 - C++, C, Java, JavaScript, Python.
+
 
 
 <!---
