@@ -13,7 +13,7 @@
   <li><a href="https://anh-duy-tran.github.io"> Proximity hover effect </a></li>
 
   <li><a href="https://github.com/Anh-Duy-Tran/Rest-API/tree/main"> REST-API </a></li>
-</ol>
+</ul>
 
 <h3>My skills: </h3>
 - C++, C, Java, JavaScript, Python.
