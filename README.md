@@ -8,6 +8,8 @@
 
 <h3>My recent projects: </h3>
 <ul>
+  <li><a href="https://hangman-with-gifs-anhduytran.fly.dev/"> Hangman game with gif as hints </a></li>
+  
   <li><a href="https://anh-duy-tran.github.io/todo-app/"> To-do app </a></li>
 
   <li><a href="https://anh-duy-tran.github.io"> Proximity hover effect </a></li>
