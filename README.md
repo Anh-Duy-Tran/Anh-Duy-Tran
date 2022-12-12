@@ -10,11 +10,11 @@
 <ul>
   <li><a href="https://hangman-with-gifs-anhduytran.fly.dev/"> Hangman game with gif as hints </a></li>
   
-  <li><a href="https://anh-duy-tran.github.io/todo-app/"> To-do app </a></li>
+  <li><a href="https://github.com/Anh-Duy-Tran/E-Commerce"> MERN E-Commerce Web App </a></li>
 
-  <li><a href="https://anh-duy-tran.github.io"> Proximity hover effect </a></li>
+  <li><a href="https://github.com/Anh-Duy-Tran/Project-Birdnest"> Real-time App Project Birdnest </a></li>
 
-  <li><a href="https://github.com/Anh-Duy-Tran/Rest-API/tree/main"> REST-API </a></li>
+  <li><a href="https://github.com/Anh-Duy-Tran/pathfinding-visualizer"> Pathfinding visualizer </a></li>
 </ul>
 
 <h3>My skills: </h3>
