@@ -8,7 +8,6 @@
 
 <h3>My recent projects: </h3>
 <ul>
-  <li><a href="https://hangman-with-gifs-anhduytran.fly.dev/"> Hangman game with gif as hints </a></li>
   
   <li><a href="https://github.com/Anh-Duy-Tran/E-Commerce"> MERN E-Commerce Web App </a></li>
 
